@@ -6,7 +6,7 @@
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="295622" />
+    <option name="ADDED_LINES_COLOR" value="5632" />
     <option name="BORDER_LINES_COLOR" value="ffc600" />
     <option name="CARET_COLOR" value="ffc600" />
     <option name="CARET_ROW_COLOR" value="2240" />
@@ -460,8 +460,8 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="b36539" />
-        <option name="BACKGROUND" value="0" />
+        <option name="FOREGROUND" value="d3833b" />
+        <option name="BACKGROUND" value="342627" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -487,7 +487,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="0" />
+        <option name="BACKGROUND" value="5632" />
         <option name="ERROR_STRIPE_COLOR" value="0" />
       </value>
     </option>
@@ -577,7 +577,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="0" />
+        <option name="BACKGROUND" value="5632" />
         <option name="ERROR_STRIPE_COLOR" value="0" />
       </value>
     </option>
@@ -636,20 +636,20 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="52503a" />
+        <option name="BACKGROUND" value="50343d" />
         <option name="ERROR_STRIPE_COLOR" value="8c8c00" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="0" />
+        <option name="BACKGROUND" value="5632" />
         <option name="ERROR_STRIPE_COLOR" value="0" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="0" />
+        <option name="BACKGROUND" value="5632" />
         <option name="ERROR_STRIPE_COLOR" value="0" />
       </value>
     </option>
