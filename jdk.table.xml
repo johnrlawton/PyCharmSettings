@@ -1,0 +1,94 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.10 (D:\Anaconda\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="D:\Anaconda\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Anaconda/DLLs" />
+            <root type="simple" url="file://D:/Anaconda/Lib" />
+            <root type="simple" url="file://D:/Anaconda/Lib/lib-tk" />
+            <root type="simple" url="file://D:/Anaconda" />
+            <root type="simple" url="file://D:/Anaconda/Lib/site-packages" />
+            <root type="simple" url="file://D:/Anaconda/Lib/site-packages/Sphinx-1.3.1-py2.7.egg" />
+            <root type="simple" url="file://D:/Anaconda/Lib/site-packages/cryptography-0.9.1-py2.7-win32.egg" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.2/bin" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.2/arcpy" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.2/ArcToolbox/Scripts" />
+            <root type="simple" url="file://D:/Anaconda/Lib/site-packages/win32" />
+            <root type="simple" url="file://D:/Anaconda/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://D:/Anaconda/Lib/site-packages/pythonwin" />
+            <root type="simple" url="jar://D:/Anaconda/Lib/site-packages/setuptools-18.3.2-py2.7.egg!/" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/1310655275" />
+            <root type="simple" url="file://D:/Anaconda/Lib/site-packages/wx-3.0-msw" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.5 (D:\Anaconda\envs\arc1022\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.5" />
+      <homePath value="D:\Anaconda\envs\arc1022\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Anaconda/envs/arc1022/DLLs" />
+            <root type="simple" url="file://D:/Anaconda/envs/arc1022/Lib" />
+            <root type="simple" url="file://D:/Anaconda/envs/arc1022/Lib/lib-tk" />
+            <root type="simple" url="file://D:/Anaconda/envs/arc1022" />
+            <root type="simple" url="file://D:/Anaconda/envs/arc1022/Lib/site-packages" />
+            <root type="simple" url="jar://D:/Anaconda/envs/arc1022/Lib/site-packages/setuptools-18.4-py2.7.egg!/" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-1002924772" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.2/bin" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.2/arcpy" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.2/ArcToolbox/Scripts" />
+            <root type="simple" url="file://D:/Anaconda/envs/arc1022/Lib/site-packages/wx-3.0-msw" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Roaming/Python/Python27/site-packages" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.5 (D:\Python27\ArcGIS10.2\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.5" />
+      <homePath value="D:\Python27\ArcGIS10.2\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Python27/ArcGIS10.2/DLLs" />
+            <root type="simple" url="file://D:/Python27/ArcGIS10.2/Lib" />
+            <root type="simple" url="file://D:/Python27/ArcGIS10.2/Lib/lib-tk" />
+            <root type="simple" url="file://D:/Python27/ArcGIS10.2" />
+            <root type="simple" url="file://D:/Python27/ArcGIS10.2/Lib/site-packages" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.2/bin" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.2/arcpy" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.2/ArcToolbox/Scripts" />
+            <root type="simple" url="file://D:/Anaconda/envs/arc1022/Lib/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-935592264" />
+            <root type="simple" url="jar://D:/Python27/ArcGIS10.2/Lib/site-packages/setuptools-5.7-py2.7.egg!/" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
